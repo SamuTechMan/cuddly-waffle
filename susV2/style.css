@@ -1,0 +1,71 @@
+.fundo{ 
+    background-color: #a8a29e;
+    text-align: center;
+    font-size: large;
+    font-family: monospace;
+    margin: 50px;
+    border-radius: 25px;
+    border: 1px solid #78716c;
+}
+.fundo1{
+    background-color: #a7f3d0;
+    border-radius: 20px;
+    padding: 2px;
+}
+.fonte{
+    font-family: monospace;
+    font-size: x-large;
+    border-radius: 20px;
+    padding: 2px;
+}
+.caixa{
+      color: #065f46;
+    font-weight: bolder;
+    font-size: xx-large;
+    border-radius: 20px;
+    padding: 10px;
+}
+.caixa1{
+    background-color: #d1fae5;
+    border-radius: 20px;
+    padding: 10px;
+}
+input:hover{
+    border: solid 2px #1c1917;
+    background-color: #a8a29e;
+    }
+.nome{
+    border-radius: 5px;
+}
+.sobrenome{
+    border-radius: 5px;
+}
+.data{
+    border-radius: 5px;
+}
+.imagem{
+    max-width: 150px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+}
+.imagem1{
+    max-width: 100px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
+}
+.imagem2{
+    max-width: 100px;
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+}
+.imagem3{
+    max-width: 150px;
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
