@@ -34,28 +34,7 @@ input:hover {
   border: solid 2px #1c1917;
   background-color: #a8a29e;
 }
-.nome {
-  border-radius: 5px;
-}
-.sobrenome {
-  border-radius: 5px;
-}
-.data {
-  border-radius: 5px;
-}
-.cpf {
-  border-radius: 5px;
-}
-.rg {
-  border-radius: 5px;
-}
-.bairro {
-  border-radius: 5px;
-}
-.rua {
-  border-radius: 5px;
-}
-.numerocasa {
+.dados {
   border-radius: 5px;
 }
 
